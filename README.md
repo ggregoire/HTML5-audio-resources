@@ -1,7 +1,7 @@
 HTML5 audio resources
 =====================
 
-This is a collection of links about HTML5 and audio. It's mainly intended as a reference for creating applications during the [Music Hack Paris](http://www.musichackparis.org/).
+It's mainly intended as a reference for creating applications during the [Music Hack Paris](http://www.musichackparis.org/).
 
 ## Documentation
 * [Getting started with the Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro) (Web Audio API)
